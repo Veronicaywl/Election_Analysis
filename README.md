@@ -6,8 +6,8 @@ We need to help Tom and Seth, who are the employees of the board of elections of
 ### Purpose
 The purpose of election analysis we need to  to have the total count of all candidates, total count of the votes in Carolado states. 
 
-## Analysis and Challenges
-### Analysis
+## Analysis 
+### Overview of Election Audit
 The steps of analyzing the challenge refer to the document 
 > PyPoll.py
 1. For this module challenge, we need to retrieve the data for the csv file dataset. 
@@ -25,10 +25,7 @@ Analysis detail shown as follow.
 
 <img width="773" alt="step3" src="https://user-images.githubusercontent.com/94089680/149691034-f74e52ed-0c3c-4537-9c16-fdcecee04b35.png">
 
-### Challenges
-As we using Python, VS Code, and Git for this module. THe challenge for me is reviewing the python code. I may wrote the script out but the errors keep coming up. Sometimes a space or the variables that we created are duplicate may cause the error. As I learn thorugh all my challenges. I am able to get the correct results.  
-
-## Election Audit Results
+### Election Audit Results
 - Total votes casted in the election is 369,711
 
 - Votes by county:
@@ -50,3 +47,12 @@ As we using Python, VS Code, and Git for this module. THe challenge for me is re
 Election results shown as the screenshot for text file. 
 
 <img width="432" alt="Screen Shot 2022-01-16 at 21 00 58" src="https://user-images.githubusercontent.com/94089680/149689405-ed67abea-8bdd-445c-a211-126c636bf42c.png">
+
+## Election Audit Summary
+As we using Python, VS Code, and Git for this module. THe challenge for me is reviewing the python code. I may wrote the script out but the errors keep coming up. Sometimes a space or the variables that we created are duplicate may cause the error. As I learn thorugh all my challenges. I am able to get the correct results. 
+Tools we learned: 
+- Read and extra the data from a csv file
+- Perform mathematical calculation via python
+- Using different data struction like list, dictionary,and tuple. 
+- Using loop and if statement to filter the information as needed. 
+- Write and print the data analysis result to a text file. 
